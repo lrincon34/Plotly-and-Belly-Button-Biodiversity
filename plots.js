@@ -18,7 +18,6 @@ function optionChanged(newSample) {
     buildMetadata(newSample);
     buildCharts(newSample);
     buildBubbleCharts(newSample);
-    buildGaugeChart(newSample);
 }
 
 function buildMetadata(sample) {
@@ -100,3 +99,5 @@ function buildBubbleCharts(sample) {
         Plotly.newPlot("bubble", data, layout)
     })
 }
+
+optionChanged(940);
