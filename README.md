@@ -22,4 +22,4 @@ Also, once Improbable Beef identifies a species as a candaditate to manufacture 
 - Result #3: Customize the layout to create an attractive dashboard. 
 
 ## Final Results
-![]()
+![](https://github.com/lrincon34/Plotly-and-Belly-Button-Biodiversity/blob/master/imgs/screencapture-localhost-52330-index-html-2020-08-23-19_05_08.png)
